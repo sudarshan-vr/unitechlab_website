@@ -33,7 +33,7 @@ function ContactForm() {
     e.preventDefault()
     setLoader(true)
 
-    fetch('https://formsubmit.co/ajax/bhainirav772@gmail.com', {
+    fetch('https://formsubmit.co/ajax/sudarshanvr23@gmail.com', {
       method: 'POST',
       headers: { 'Content-type': 'application/json' },
       body: JSON.stringify({
