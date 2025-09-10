@@ -127,9 +127,9 @@ function HeroSection() {
                     <Image
                       src='https://yourtechclub.com/wp-content/uploads/2025/02/Frame-1538.svg' // <-- your combined logo image
                       alt='GoodFirms and Google Reviews'
-                      width={260}
-                      height={80}
-                      className='w-[200px] sm:w-[260px] h-auto'
+                      width={300}
+                      height={150}
+                      className='w-[250px] sm:w-[290px] h-auto'
                       unoptimized={true}
                     />
                   </div>
