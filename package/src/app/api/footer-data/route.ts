@@ -2,8 +2,8 @@ import { NextResponse } from "next/server";
 
 const footerData = {
     brand: {
-        name: "Awake",
-        tagline: " Commited to Growth & Essential Technology Services",
+        name: "Unitechlabs",
+        tagline: "Commited to Growth & Essential Technology Services",
         socialLinks: [
             {
                 icon: "/images/home/footerSocialIcon/instagram.svg",
