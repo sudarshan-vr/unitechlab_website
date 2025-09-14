@@ -66,7 +66,7 @@ const brandList: brand[] = [
 const innovationList: innovation[] = [
   {
     image: '/images/home/innovation/brand.svg',
-    title: 'Brand\nStrategy',
+    title: 'Brand\nIntegrity',
     bg_color: 'bg-purple/20',
     txt_color: 'text-purple',
   },
@@ -176,7 +176,7 @@ const WebResultTagList: WebResultTag[] = [
   },
   {
     image: '/images/home/result/strategy.svg',
-    name: 'Strategy',
+    name: 'Integrity',
     bg_color: 'bg-orange/20',
     txt_color: 'text-orange',
   },
