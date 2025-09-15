@@ -99,27 +99,27 @@ const innovationList: innovation[] = [
 const onlinePresenceList: onlinePresence[] = [
   {
     image: '/images/home/onlinePresence/online_img_1.jpg',
-    title: 'FlowBank',
-    tag: ['UX Research', 'Interface Design'],
-    link: 'https://www.wrappixel.com/',
+    title: 'AgriGuard',
+    tag: ['Iot Research', 'Product Development'],
+    link: '/',
   },
   {
     image: '/images/home/onlinePresence/online_img_2.jpg',
-    title: 'Academy.co',
-    tag: ['Product Design', 'Interaction Design'],
-    link: 'https://www.wrappixel.com/',
+    title: 'Mobile App & Web Developments',
+    tag: ['UI/UX Research', 'E-commerce solutions'],
+    link: '/',
   },
   {
     image: '/images/home/onlinePresence/online_img_3.jpg',
-    title: 'Genome',
-    tag: ['Brand identity design', 'UX Research'],
-    link: 'https://www.wrappixel.com/',
+    title: 'AI & Data',
+    tag: ['Custom AI Model', 'Chatbot'],
+    link: '/',
   },
   {
     image: '/images/home/onlinePresence/online_img_4.jpg',
-    title: 'Hotto',
-    tag: ['Visual Storytelling', 'Web & Mobile Design'],
-    link: 'https://www.wrappixel.com/',
+    title: 'Blockchain Dapps',
+    tag: ['Cryptocurrency', "NFT's"],
+    link: '/',
   },
 ]
 
