@@ -90,7 +90,7 @@ const innovationList: innovation[] = [
   },
   {
     image: '/images/home/innovation/webdevp.svg',
-    title: 'Web\nDevelopment',
+    title: 'Web & Mobile Application Development',
     bg_color: 'bg-pink/20',
     txt_color: 'text-pink',
   },
