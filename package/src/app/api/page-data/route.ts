@@ -66,31 +66,31 @@ const brandList: brand[] = [
 const innovationList: innovation[] = [
   {
     image: '/images/home/innovation/brand.svg',
-    title: 'Brand\nIntegrity',
+    title: 'Custom Software Development',
     bg_color: 'bg-purple/20',
     txt_color: 'text-purple',
   },
   {
     image: '/images/home/innovation/digitalmarketing.svg',
-    title: 'Digital\nMarketing',
+    title: 'Web & Mobile Application Development',
     bg_color: 'bg-blue/20',
     txt_color: 'text-blue',
   },
   {
     image: '/images/home/innovation/uiux.svg',
-    title: 'UI/UX\nDesign',
+    title: 'AI Integration / Automation',
     bg_color: 'bg-orange/20',
     txt_color: 'text-orange',
   },
   {
     image: '/images/home/innovation/analitics.svg',
-    title: 'Analytics &\nReporting',
+    title: 'Blockchain & Web3 Solutions',
     bg_color: 'bg-green/20',
     txt_color: 'text-green',
   },
   {
     image: '/images/home/innovation/webdevp.svg',
-    title: 'Web & Mobile Application Development',
+    title: 'Internet of Things (IoT) & Smart Devices',
     bg_color: 'bg-pink/20',
     txt_color: 'text-pink',
   },
