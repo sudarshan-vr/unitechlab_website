@@ -100,7 +100,7 @@ const onlinePresenceList: onlinePresence[] = [
   {
     image: '/images/home/onlinePresence/online_img_1.jpg',
     title: 'AgriGuard',
-    tag: ['Iot Research', 'Product Development'],
+    tag: ['Iot', 'Research Studies', 'Product Development'],
     link: '/',
   },
   {
@@ -110,17 +110,18 @@ const onlinePresenceList: onlinePresence[] = [
     link: '/',
   },
   {
-    image: '/images/home/onlinePresence/online_img_3.jpg',
+    image: '/images/home/onlinePresence/online_img_3.webp',
     title: 'AI & Data',
-    tag: ['Custom AI Model', 'Chatbot'],
+    tag: ['Custom AI Models', 'Chatbots'],
     link: '/',
   },
   {
-    image: '/images/home/onlinePresence/online_img_4.jpg',
-    title: 'Blockchain Dapps',
-    tag: ['Cryptocurrency', "NFT's"],
+    image: '/images/home/onlinePresence/online_img_4.webp',
+    title: 'Blockchain & Web3 Solutions',
+    tag: ['Cryptocurrency', "NFT's", 'Dapps', 'DeFi'],
     link: '/',
   },
+  
 ]
 
 const creativeMindList: creativeMind[] = [
