@@ -261,7 +261,7 @@ const achievementsList: achievements[] = [
     dark_icon: '/images/home/achievement/dark_framer_award.svg',
     sub_title: 'ISO 9001:2015 Certification',
     title:'Internationally recognized Quality Management System (QMS) certification ensuring our commitment to delivering consistent, high-quality services.',
-    year: '📅 Year of Certification: 2025',
+    year: 'Year of Certification: 2025',
     url: '/',
   },
   {
@@ -277,7 +277,7 @@ const achievementsList: achievements[] = [
     dark_icon: '/images/home/achievement/dark_awward_award.svg',
     sub_title: 'GST Registration Certificate',
     title:'Compliant with Indian taxation system under Goods & Services Tax (GST), ensuring transparent and lawful business practices.',
-    year: '2022',
+    year: 'GSTIN: **********',
     url: '/',
   },
 ]
