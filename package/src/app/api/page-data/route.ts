@@ -98,7 +98,7 @@ const innovationList: innovation[] = [
 
 const onlinePresenceList: onlinePresence[] = [
   {
-    image: '/images/home/onlinePresence/online_img_1.jpg',
+    image: '/images/home/onlinePresence/Overview-of-IoT-in-Agriculture-6_11zon.webp',
     title: 'AgriGuard',
     tag: ['IoT', 'Research Studies', 'Product Development'],
     link: '/',
