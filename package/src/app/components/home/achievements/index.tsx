@@ -37,9 +37,8 @@ function Achievements() {
           <div className='flex flex-col gap-10 md:gap-20'>
             <div className='max-w-3xl text-center mx-auto'>
               <h2>
-                Accolades and achievements celebration our{' '}
+                Our Certifications & Compliance{' '}
                 <span className='instrument-font italic font-normal dark:text-white/70'>
-                  design excellence
                 </span>
               </h2>
             </div>
