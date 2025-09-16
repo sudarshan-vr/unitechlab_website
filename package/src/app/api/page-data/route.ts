@@ -100,7 +100,7 @@ const onlinePresenceList: onlinePresence[] = [
   {
     image: '/images/home/onlinePresence/online_img_1.jpg',
     title: 'AgriGuard',
-    tag: ['Iot', 'Research Studies', 'Product Development'],
+    tag: ['IoT', 'Research Studies', 'Product Development'],
     link: '/',
   },
   {
@@ -116,7 +116,7 @@ const onlinePresenceList: onlinePresence[] = [
     link: '/',
   },
   {
-    image: '/images/home/onlinePresence/online_img_4.webp',
+    image: '/images/home/onlinePresence/online_img_4.png',
     title: 'Blockchain & Web3 Solutions',
     tag: ['Cryptocurrency', "NFT's", 'Dapps', 'DeFi'],
     link: '/',
