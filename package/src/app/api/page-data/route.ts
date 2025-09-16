@@ -259,28 +259,26 @@ const achievementsList: achievements[] = [
   {
     icon: '/images/home/achievement/framer_award.svg',
     dark_icon: '/images/home/achievement/dark_framer_award.svg',
-    sub_title: 'Framer Awards',
-    title:
-      'Celebrated for cutting-edge interaction design and seamless user experiences.',
-    year: '2024',
-    url: 'https://www.framer.com/@wrap-pixel/',
+    sub_title: 'ISO 9001:2015 Certification',
+    title:'Internationally recognized Quality Management System (QMS) certification ensuring our commitment to delivering consistent, high-quality services.',
+    year: '📅 Year of Certification: 2025',
+    url: '/',
   },
   {
     icon: '/images/home/achievement/dribble_award.svg',
     dark_icon: '/images/home/achievement/dribble_award.svg',
-    sub_title: 'Dribbble Awards',
-    title: 'Recognized for creative excellence and innovative design solutions',
-    year: '2023',
-    url: 'https://www.framer.com/@wrap-pixel/',
+    sub_title: 'Udyam Registration Certificate',
+    title: 'Registered under Government of India’s MSME scheme, recognizing us as a certified Micro/Small Enterprise.',
+    year: 'Registration Number: UDYAM-KR-03-0567986',
+    url: '/',
   },
   {
     icon: '/images/home/achievement/awward_award.svg',
     dark_icon: '/images/home/achievement/dark_awward_award.svg',
-    sub_title: 'awwwards Awards',
-    title:
-      'Honored with the Best Website Design for creativity, usability, and innovation.',
+    sub_title: 'GST Registration Certificate',
+    title:'Compliant with Indian taxation system under Goods & Services Tax (GST), ensuring transparent and lawful business practices.',
     year: '2022',
-    url: 'https://www.framer.com/@wrap-pixel/',
+    url: '/',
   },
 ]
 
