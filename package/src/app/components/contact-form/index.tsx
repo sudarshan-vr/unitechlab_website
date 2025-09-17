@@ -162,8 +162,11 @@ function ContactForm() {
                       <option value='design & branding'>
                         Design & Branding
                       </option>
-                      <option value='Ecommerce'>Ecommerce</option>
-                      <option value='Specialist'>Specialist</option>
+                      <option value='WebApp Development'>Website Development</option>
+                      <option value='Custom Software'>Mobile Application</option>
+                      <option value='Custom Software'>Custom Software</option>
+                      <option value='IOT Hardware'>IOT Hardware/Software</option>
+                      <option value='AI Integration / Automation'>AI Integration / Automation / Data</option>
                     </select>
                   </div>
                   <div className='w-full'>
@@ -175,8 +178,12 @@ function ContactForm() {
                       value={formData.budget}
                       onChange={handleChange}>
                       <option value=''>Select your budget</option>
-                      <option value='$10000'>$10,000</option>
-                      <option value='$50500'>$50,500</option>
+                      <option value='$10000'>$100</option>
+                      <option value='$300-$500'>$300-$500</option>
+                      <option value='$800-$2000'>$800-$2,000</option>
+                      <option value='$2,500-$10,000'>$2,500-$5,000</option>
+                      <option value='$8,000-$10,000'>$8,000-$10,000</option>
+                      <option value='20,000'>$20,000+</option>
                     </select>
                   </div>
                 </div>
