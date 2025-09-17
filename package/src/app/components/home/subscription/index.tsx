@@ -54,7 +54,7 @@ function Subscription() {
                           {items.plan_price}
                           <span
                             className={`text-base text-${items.descp_color} ml-1`}>
-                            /month
+                            /one-time
                           </span>
                         </h2>
                         <Link
