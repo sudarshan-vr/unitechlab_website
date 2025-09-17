@@ -277,7 +277,7 @@ const achievementsList: achievements[] = [
     dark_icon: '/images/home/achievement/dark_awward_award.svg',
     sub_title: 'GST Registration Certificate',
     title:'Compliant with Indian taxation system under Goods & Services Tax (GST), ensuring transparent and lawful business practices.',
-    year: 'GSTIN: **********',
+    year: 'GSTIN: 292500210046TRN',
     url: '/',
   },
 ]
