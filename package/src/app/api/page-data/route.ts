@@ -33,33 +33,33 @@ const avatarList: avatar[] = [
 const brandList: brand[] = [
   {
     image: 'https://yourtechclub.com/wp-content/uploads/2024/03/Parra-dark.svg',
-    darkImg: '/images/home/brand/brand-darkicon-1.svg',
-    title: 'Adobe',
+    darkImg: 'https://yourtechclub.com/wp-content/uploads/2024/03/Parra-dark.svg',
+    title: 'Navkis',
   },
   {
     image: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-8.svg',
-    darkImg: '/images/home/brand/brand-darkicon-1.svg',
-    title: 'Adobe',
+    darkImg: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-8.svg',
+    title: 'AQ Researchs',
   },
   {
     image: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-5.svg',
-    darkImg: '/images/home/brand/brand-darkicon-2.svg',
-    title: 'Figma',
+    darkImg: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-5.svg',
+    title: 'Aroush Solutions',
   },
   {
     image: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-9.svg',
-    darkImg: '/images/home/brand/brand-darkicon-3.svg',
-    title: 'Shopify',
+    darkImg: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-9.svg',
+    title: 'Sai Vidhya Institue of Technology',
   },
   {
     image: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-7.svg',
-    darkImg: '/images/home/brand/brand-darkicon-4.svg',
-    title: 'Dribble',
+    darkImg: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-7.svg',
+    title: 'Skillyterns',
   },
   {
     image: 'https://yourtechclub.com/wp-content/uploads/2024/03/TOTO-Dark.svg',
-    darkImg: '/images/home/brand/brand-darkicon-5.svg',
-    title: 'Webflow',
+    darkImg: 'https://yourtechclub.com/wp-content/uploads/2024/03/TOTO-Dark.svg',
+    title: 'Navkis Gokula',
   },
 ]
 
