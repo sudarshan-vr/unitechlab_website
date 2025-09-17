@@ -41,16 +41,14 @@ const footerData = {
     otherPages: {
         name: "Other Pages",
         links: [
-            { name: "Error 404", url: "/not-found" },
             { name: "Terms & Conditions", url: "/terms-and-conditions" },
             { name: "Privacy Policy", url: "/privacy-policy" },
-            { name: "Documentation", url: "/documentation" }
         ]
     },
     contactDetails: {
         name:"Contact Details",
         address: "KFC building, 31, 17th Cross Rd, MRCR Layout, Bengaluru, Karnataka India 560040",
-        email: "hello@unitechclub.com",
+        email: "info@unitechclub.com",
         phone: "959 1066 613"
     },
     copyright: "©2025 Unitechlabs. All Rights Reserved"
