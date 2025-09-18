@@ -153,13 +153,6 @@ const creativeMindList: creativeMind[] = [
     twitterLink: 'https://x.com/',
     linkedinLink: 'https://www.linkedin.com/company/unitech-labs',
   },
-  {
-    image: '/images/home/creative/globe.svg',
-    name: 'Sai Eshwari',
-    position: 'HR & Operations',
-    twitterLink: 'https://x.com/',
-    linkedinLink: 'https://www.linkedin.com/company/unitech-labs',
-  },
 ]
 
 const WebResultTagList: WebResultTag[] = [
