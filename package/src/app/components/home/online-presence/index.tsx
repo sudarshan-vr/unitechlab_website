@@ -54,7 +54,7 @@ function OnlinePresence() {
 
                       {/* Overlay div */}
                       <Link
-                        href={'/'}
+                        href={'portfolio.unitechclub.com/projects'}
                         target='blank'
                         className='absolute top-0 left-0 bg-black/50 w-full h-full rounded-2xl hidden group-hover:flex'>
                         <span className='flex justify-end p-5 w-full'>
