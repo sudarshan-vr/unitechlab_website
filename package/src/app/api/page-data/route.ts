@@ -101,25 +101,25 @@ const onlinePresenceList: onlinePresence[] = [
     image: '/images/home/onlinePresence/Overview-of-IoT-in-Agriculture-6_11zon.webp',
     title: 'Internet Of Things',
     tag: ['IoT', 'Research Studies', 'Product Development'],
-    link: '/',
+    link: 'https://portfolio.unitechclub.com/projects',
   },
   {
     image: '/images/home/onlinePresence/online_img_2.jpg',
     title: 'Mobile App & Web Developments',
     tag: ['UI/UX Research', 'E-commerce solutions'],
-    link: '/',
+    link: 'https://portfolio.unitechclub.com/projects',
   },
   {
     image: '/images/home/onlinePresence/online_img_3.webp',
     title: 'AI & Data',
     tag: ['Custom AI Models', 'Chatbots'],
-    link: '/',
+    link: 'https://portfolio.unitechclub.com/projects',
   },
   {
     image: '/images/home/onlinePresence/online_img_4.png',
     title: 'Blockchain & Web3 Solutions',
     tag: ['Cryptocurrency', "NFT's", 'Dapps', 'DeFi'],
-    link: '/',
+    link: 'https://portfolio.unitechclub.com/projects',
   },
   
 ]
