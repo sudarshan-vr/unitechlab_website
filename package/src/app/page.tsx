@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+import Script from "next/script";
 import Achievements from "./components/home/achievements";
 import Brand from "./components/home/brand";
 import CreativeMind from "./components/home/creative-mind";
@@ -62,6 +63,23 @@ export default function Home() {
       {/* ---------------------Solutions section Starts-----------------  */}
       <Solutions />
       {/* ---------------------Solutions section Ends-----------------  */}
+      {/* Tawk debug initialization (optional, safe to keep) */}
+      <Script id="tawk-init" strategy="afterInteractive">
+        {`window.Tawk_API = window.Tawk_API || {};
+        window.Tawk_API.onLoad = function () { console.log('[Tawk] loaded'); };
+        window.Tawk_API.onError = function (err) { console.warn('[Tawk] error', err); };`}
+      </Script>
+      <Script id="tawk-chat" strategy="afterInteractive">
+        {`var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/68cea2bbf60acf192897a2d8/1j5jinc72';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();`}
+      </Script>
     </main>
   )
 }
