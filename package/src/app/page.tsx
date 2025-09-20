@@ -64,11 +64,6 @@ export default function Home() {
       <Solutions />
       {/* ---------------------Solutions section Ends-----------------  */}
       {/* Tawk debug initialization (optional, safe to keep) */}
-      <Script id="tawk-init" strategy="afterInteractive">
-        {`window.Tawk_API = window.Tawk_API || {};
-        window.Tawk_API.onLoad = function () { console.log('[Tawk] loaded'); };
-        window.Tawk_API.onError = function (err) { console.warn('[Tawk] error', err); };`}
-      </Script>
       <Script id="tawk-chat" strategy="afterInteractive">
         {`var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
         (function(){
