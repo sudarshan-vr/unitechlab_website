@@ -32,8 +32,8 @@ const avatarList: avatar[] = [
 
 const brandList: brand[] = [
   {
-    image: 'https://yourtechclub.com/wp-content/uploads/2024/03/Parra-dark.svg',
-    darkImg: 'https://yourtechclub.com/wp-content/uploads/2024/03/Parra-dark.svg',
+    image: '/images/home/brand/navkis.svg',
+    darkImg: '/images/home/brand/navkis.svg',
     title: 'Navkis',
   },
   {
