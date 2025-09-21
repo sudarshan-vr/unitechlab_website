@@ -47,9 +47,9 @@ const brandList: brand[] = [
     title: 'Dr Kite Academy',
   },
   {
-    image: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-9.svg',
-    darkImg: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-9.svg',
-    title: 'Sai Vidhya Institue of Technology',
+    image: '/images/home/brand/vapi.svg',
+    darkImg: '/images/home/brand/vapi.svg',
+    title: 'VAPI',
   },
   {
     image: 'http://aroushtech.in/wp-content/uploads/2025/06/AS-ED-LOGO-11_-_Edited-removebg-preview.png',
