@@ -42,9 +42,9 @@ const brandList: brand[] = [
     title: 'AQ Researchs',
   },
   {
-    image: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-5.svg',
-    darkImg: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-5.svg',
-    title: 'Aroush Solutions',
+    image: '/images/home/brand/drkiteacademy.svg',
+    darkImg: '/images/home/brand/drkiteacademy.svg',
+    title: 'Dr Kite Academy',
   },
   {
     image: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-9.svg',
