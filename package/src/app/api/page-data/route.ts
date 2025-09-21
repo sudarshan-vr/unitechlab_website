@@ -61,6 +61,11 @@ const brandList: brand[] = [
     darkImg: 'https://yourtechclub.com/wp-content/uploads/2024/03/TOTO-Dark.svg',
     title: 'Navkis Gokula',
   },
+  {
+    image: '/images/home/brand/saividhyainstituteoftechnology.png',
+    darkImg: '/images/home/brand/saividhyainstituteoftechnology.png',
+    title: 'Sai Vidhya Institue of Technology',
+  },
 ]
 
 const innovationList: innovation[] = [
