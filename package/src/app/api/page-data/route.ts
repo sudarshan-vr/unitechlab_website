@@ -37,8 +37,8 @@ const brandList: brand[] = [
     title: 'Navkis',
   },
   {
-    image: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-8.svg',
-    darkImg: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-8.svg',
+    image: '/images/home/brand/aqresearchs.svg',
+    darkImg: '/images/home/brand/aqresearchs.svg',
     title: 'AQ Researchs',
   },
   {
