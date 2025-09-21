@@ -52,9 +52,9 @@ const brandList: brand[] = [
     title: 'Sai Vidhya Institue of Technology',
   },
   {
-    image: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-7.svg',
-    darkImg: 'https://yourtechclub.com/wp-content/uploads/2023/12/Logo-7.svg',
-    title: 'Skillyterns',
+    image: 'http://aroushtech.in/wp-content/uploads/2025/06/AS-ED-LOGO-11_-_Edited-removebg-preview.png',
+    darkImg: 'http://aroushtech.in/wp-content/uploads/2025/06/AS-ED-LOGO-11_-_Edited-removebg-preview.png',
+    title: 'Aroush Solutions',
   },
   {
     image: 'https://yourtechclub.com/wp-content/uploads/2024/03/TOTO-Dark.svg',
