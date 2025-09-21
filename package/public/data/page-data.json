@@ -19,9 +19,9 @@
   ],
   "brandList": [
     {
-      "image": "https://yourtechclub.com/wp-content/uploads/2024/03/Parra-dark.svg",
-      "darkImg": "/images/home/brand/brand-darkicon-1.svg",
-      "title": "Adobe"
+      "image": "/images/home/brand/navkis.svg",
+      "darkImg": "/images/home/brand/navkis.svg",
+      "title": "Navkis"
     },
     {
       "image": "https://yourtechclub.com/wp-content/uploads/2023/12/Logo-8.svg",
