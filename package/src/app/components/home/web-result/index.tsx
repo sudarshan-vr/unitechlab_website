@@ -1,4 +1,5 @@
 'use client'
+import React from 'react' // Add this line
 import Image from 'next/image'
 import CountUp from 'react-countup'
 import { useInView } from 'react-intersection-observer'
