@@ -88,7 +88,7 @@ function WebResult() {
               <div className='relative 2xl:px-24 px-16 md:py-8 py-4'>
                 <h2 className='2xl:text-9xl md:text-7xl text-5xl'>
                   <sup>%</sup>
-                  {inView ? <CountUp start={0} end={90} duration={3} /> : '0'}
+                  {inView ? <CountUp start={0} end={90} duration={3} /> : '0'}+
                 </h2>
                 <p className='mt-2 text-dark_black/60 dark:text-white/60'>
                   Returning Customers
@@ -96,9 +96,10 @@ function WebResult() {
               </div>
               <div className='relative 2xl:px-24 px-16 md:py-8 py-4'>
                 <h2 className='2xl:text-9xl md:text-7xl text-5xl'>
-                <span className="ml-2 text-current">/5</span>
+                
                   {inView ? <CountUp start={0} end={10} duration={3} /> : '0'}
                 </h2>
+                <span className="ml-2 text-current">M</span>
                 <p className='mt-2 text-dark_black/60 dark:text-white/60'>
                   End Users Reached
                 </p>
