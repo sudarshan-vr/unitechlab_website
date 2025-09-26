@@ -40,7 +40,7 @@ function HeroSection() {
               {...bottomAnimation}
               className='relative flex flex-col text-center items-center gap-4'>
               <h1 className='font-medium w-full'>
-                We Design and Develop High End Custom
+                We Design and Develop High-End Custom
                 <span className='instrument-font italic font-normal dark:text-white/70'>
                   {' '}
                   Digital Products
