@@ -1,5 +1,4 @@
 'use client'
-import React from 'react' // Add this line
 import Image from 'next/image'
 import CountUp from 'react-countup'
 import { useInView } from 'react-intersection-observer'
@@ -16,7 +15,7 @@ function WebResult() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const res = await fetch('/data/page-data.json')
+        const res = await fetch('/api/page-data')
         if (!res.ok) throw new Error('Failed to fetch')
 
         const data = await res.json()
@@ -71,23 +70,37 @@ function WebResult() {
                 </p>
                 <div className='hidden md:block absolute right-0 top-1/2 transform -translate-y-1/2 h-28 w-px bg-dark_black/10 dark:bg-white/10' />
               </div>
+              <div className='relative 2xl:px-24 px-16 md:py-8 py-4 text-center'>
+  <h2 className='2xl:text-9xl md:text-7xl text-5xl flex items-center justify-center'>
+    {inView ? (
+      <CountUp start={0} end={4.8} duration={3} decimals={1} />
+    ) : (
+      '0'
+    )}
+    <span className="ml-2 text-current">/5</span>
+  </h2>
+  <p className='mt-2 text-dark_black/60 dark:text-white/60'>
+    Customer review
+  </p>
+  <div className='hidden md:block absolute right-0 top-1/2 transform -translate-y-1/2 h-28 w-px bg-dark_black/10 dark:bg-white/10' />
+</div>
+
               <div className='relative 2xl:px-24 px-16 md:py-8 py-4'>
                 <h2 className='2xl:text-9xl md:text-7xl text-5xl'>
-                  <sup>+</sup>
-                  {inView ? <CountUp start={0} end={4.4} duration={3} /> : '0'}
-                </h2>
-                <p className='mt-2 text-dark_black/60 dark:text-white/60'>
-                  Customer review
-                </p>
-                <div className='hidden md:block absolute right-0 top-1/2 transform -translate-y-1/2 h-28 w-px bg-dark_black/10 dark:bg-white/10' />
-              </div>
-              <div className='relative 2xl:px-24 px-16 md:py-8 py-4'>
-                <h2 className='2xl:text-9xl md:text-7xl text-5xl'>
-                  <sup>+</sup>
-                  {inView ? <CountUp start={0} end={100000} duration={3} /> : '0'}
+                  <sup>%</sup>
+                  {inView ? <CountUp start={0} end={90} duration={3} /> : '0'}
                 </h2>
                 <p className='mt-2 text-dark_black/60 dark:text-white/60'>
                   Returning Customers
+                </p>
+              </div>
+              <div className='relative 2xl:px-24 px-16 md:py-8 py-4'>
+                <h2 className='2xl:text-9xl md:text-7xl text-5xl'>
+                  <sup>M</sup>
+                  {inView ? <CountUp start={0} end={100} duration={3} /> : '0'}
+                </h2>
+                <p className='mt-2 text-dark_black/60 dark:text-white/60'>
+                  End Users Reached
                 </p>
               </div>
             </div>
