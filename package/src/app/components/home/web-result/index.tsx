@@ -98,8 +98,9 @@ function WebResult() {
                 <h2 className='2xl:text-9xl md:text-7xl text-5xl'>
                 
                   {inView ? <CountUp start={0} end={10} duration={3} /> : '0'}
+                  <span className="ml-2 text-current">M</span>
                 </h2>
-                <span className="ml-2 text-current">M</span>
+                
                 <p className='mt-2 text-dark_black/60 dark:text-white/60'>
                   End Users Reached
                 </p>
