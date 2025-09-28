@@ -49,7 +49,7 @@ function HeroSection() {
               <p className='max-w-38 text-dark_black/60 dark:text-white/60'>
                 Unitechlabs is a leading technology partner for businesses of all sizes, providing high-quality, customized solutions for various industries, including healthcare, education, e-commerce, and more.
 
-With over a decade of experienced developers, we have worked with 50+ clients, including VAPI, Navkis, Anand-Audio, TOTO, Just Another IOT Company and TorqueTech, to help them achieve their business goals through innovative and effective technology solutions.
+With over a decade of experienced developers, we have worked with hundreds of clients, including VAPI, Navkis, Aroush pvt ltd, TOTO, Just Another IOT Company and AQResearch, to help them achieve their business goals through innovative and essential technology solutions.
               </p>
             </motion.div>
 
