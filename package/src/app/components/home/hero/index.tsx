@@ -47,7 +47,9 @@ function HeroSection() {
                 </span>
               </h1>
               <p className='max-w-38 text-dark_black/60 dark:text-white/60'>
-                Unitech Labs is a pioneering software development company based in Bangalore, creating web and mobile applications, Blockchain, IoT, Data, and AI solutions. With over 50 projects delivered across 4 countries, we are committed to supporting growth and providing profound technology services.
+                Unitechlabs is a leading technology partner for businesses of all sizes, providing high-quality, customized solutions for various industries, including healthcare, education, e-commerce, and more.
+
+With over a decade of experienced developers, we have worked with 50+ clients, including VAPI, Navkis, Anand-Audio, TOTO, Just Another IOT Company and TorqueTech, to help them achieve their business goals through innovative and effective technology solutions.
               </p>
             </motion.div>
 
