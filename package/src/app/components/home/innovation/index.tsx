@@ -41,9 +41,6 @@ function Innovation() {
                 className='max-w-(--breakpoint-Xsm) text-center'>
                 <h2>
                   Everything you need to bring your vision to life.{' '}
-                  <span className='instrument-font italic font-normal dark:text-white/70'>
-                    (services)
-                  </span>
                   <p className='max-w-38 text-dark_black/60 dark:text-white/60'>
                 Whether you’re looking for innovative web, mobile, or AI solutions to bring your ideas to life, our team of experts is ready to support you with custom work and innovation.
               </p>
