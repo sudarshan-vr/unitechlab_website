@@ -81,8 +81,7 @@ function Innovation() {
               {...bottomAnimation(3)}
               className='flex flex-col gap-4 xl:flex xl:flex-row bg-dark_black items-center justify-between dark:bg-white/5 py-8 px-7 sm:px-12 rounded-3xl w-full'>
               <h4 className='text-white text-center xl:text-left'>
-                See Our Work in Action.
-                <br /> Start Your Creative Journey with Us!
+                🟢 Available for new projects.
               </h4>
               <div className='flex flex-col sm:flex-row gap-3 items-center'>
                 <Link
