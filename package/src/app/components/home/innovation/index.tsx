@@ -88,7 +88,7 @@ function Innovation() {
                   href='/contact'
                   className='group gap-2 text-dark_black font-medium bg-white rounded-full flex items-center lg:gap-4 py-2 pl-5 pr-2 border border-white dark:border-opacity-50 hover:bg-transparent hover:text-white transition-all duration-200 ease-in-out'>
                   <span className='group-hover:translate-x-9 transform transition-transform duration-200 ease-in-out'>
-                    Let’s Collaborate
+                    Schedule a free consultation
                   </span>
                   <svg
                     width='32'
@@ -115,10 +115,10 @@ function Innovation() {
                   </svg>
                 </Link>
                 <Link
-                  href='/#work'
+                  href='tel:+919591066613'
                   className='group border border-white dark:border-white/50 text-white font-medium bg-dark_black gap-2 rounded-full flex items-center justify-between lg:gap-4 py-2 pl-5 pr-2 hover:opacity-95 hover:bg-transparent hover:text-white transition-all duration-200 ease-in-out'>
                   <span className='group-hover:translate-x-9 transform transition-transform duration-200 ease-in-out'>
-                    View Portfolio
+                    Or call directly: +91 959 1066 613
                   </span>
                   <svg
                     width='32'
