@@ -35,9 +35,11 @@ function WebResult() {
           <div className='flex flex-col  lg:gap-16 gap-5'>
             <div className='flex flex-col items-center justify-center text-center gap-3'>
               <h2 className='max-w-6xl'>
-                Crafting exceptional, well experienced & technology driven
-                strategies to drive impactful results with
+                Our approach combines creative thinking with technical expertise, turning ideas into reality.
               </h2>
+              <p className='max-w-38 text-dark_black/60 dark:text-white/60'>
+                We believe in building strong, lasting relationships with our clients and delivering solutions that are not only relevant today, but will endure tomorrow.
+              </p>
               <div>
                 <h2>
                   {data?.map((items:any, index:any) => (
