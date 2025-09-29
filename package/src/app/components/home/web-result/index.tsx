@@ -38,7 +38,7 @@ function WebResult() {
                 Our approach combines creative thinking with technical expertise, turning ideas into reality.
               </h2>
               <p className='max-w-38 text-dark_black/60 dark:text-white/60'>
-                We believe in building strong, lasting relationships with our clients and delivering solutions that are not only relevant today, but will endure tomorrow.
+                We believe in building strong, lasting relationships with our clients and delivering solutions that are not only relevant today, but will endure tomorrow--through
               </p>
               <div>
                 <h2>
