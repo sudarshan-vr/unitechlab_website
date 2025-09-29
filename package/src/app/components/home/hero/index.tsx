@@ -49,7 +49,7 @@ function HeroSection() {
               <p className='max-w-38 text-dark_black/60 dark:text-white/60'>
                 Unitechlabs is a leading technology partner for businesses of all sizes, providing high-quality, customized solutions for various industries, including healthcare, education, e-commerce, and more.
 
-With our tech expert developers, we have worked with hundreds of clients, to help them achieve their business goals through innovative and essential technology solutions.
+With our tech experts, we have worked with hundreds of clients, to help them achieve their business goals through innovative and essential technology solutions.
               </p>
             </motion.div>
 
